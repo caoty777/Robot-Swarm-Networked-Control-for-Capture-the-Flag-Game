@@ -1,2 +1,5 @@
 # Robot-Swarm-Networked-Control-for-Capture-the-Flag-Game
-Final project for 'ECE6563: Networked Control' at Georgia Tech. We wrote Matlab code to implement the defense and scouting behavior for a swarm of robots in a 'Capture the Flag' game. Robot behavior includes: consensus, formation control, cyclic pursuit, leader-follower patrol. We demonstrated the system in both Matlab simulator and the GT Robotarium testbed (with real robots).
+File Description:
+1. final_report.pdf - the comprehensive project report
+2. robots_defense.m - the MATLAB code to implement the defense behavior in the game
+2. robots_scouting.m - the MATLAB code to implement the scouting behavior in the game
